@@ -35,6 +35,7 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
+<<<<<<< HEAD
 
 
 		<dependency>
@@ -53,6 +54,8 @@
 
 
 
+=======
+>>>>>>> 918ef69f9bb29065b8f36ffaa51026c29d2598b4
 	</dependencies>
 
 	<build>
